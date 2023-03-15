@@ -29,7 +29,7 @@ If it isn't in the word then a piece of the hangman image will be drawn.
 
 You have 10 guesses to complete all the letters in the word before the hangman picture is drawn.
 
-![Hangman](https://github.com/CraigB2023/Hangman/tree/master/images/hangman.jpg?raw=true)
+![Hangman](https://github.com/CraigB2023/Hangman/src/images/hangman.jpg?raw=true)
 
 ## Authors
 
