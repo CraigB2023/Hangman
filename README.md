@@ -39,4 +39,4 @@ ex. Craig Bain - craig_bain@hotmail.com
 
 ## Acknowledgments
 
-* HyperionDev Web Developer course - T52 Capstone Project 2
+* HyperionDev Web Developer course - T52 Capstone Project 7
